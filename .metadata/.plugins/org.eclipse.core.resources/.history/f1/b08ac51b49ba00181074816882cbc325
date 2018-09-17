@@ -1,0 +1,38 @@
+
+
+
+
+public class Tableau1 {
+
+	public static void main(String[] args) {
+		
+		
+	//	Afficher les éléments du tableau 
+	//	Afficher les élément sur la même ligne séparés par “,
+		
+		
+		String cours  [] = {"Java" , "Html", "CSS", "Javascript", "PHP", "C++","NodeJS", "NET", "Typescript", "Golang", "Scala”", "Kotlin"};
+		for (int i = 0; i < cours.length; i++) {
+			System.out.print("Matière ' " + cours[i]); 
+			
+			
+		}
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+	
+
+	}
+
+

@@ -1,0 +1,21 @@
+
+public class ExoVariabeles {
+	public static void main(String[] args) {
+	
+	
+	//Type nomvariable = valeur;
+	double note =14.5 ;
+	int coef=3;
+	
+	double ruseltat = note * coef;
+	
+	System.out.println("ruseltat =" + ruseltat);
+	System.out.println("ruseltat =" + ruseltat);
+	
+	
+	
+
+
+	}
+
+}

@@ -1,0 +1,24 @@
+
+
+import java.util.Scanner;
+
+public class Tableau1 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("debut"); 
+		
+		String chaine = sc.nextLine();
+		if(chaine.equals("bonjour")) {
+			System.out.println("vous avez saisi:" + chaine);
+		}
+		
+		
+		
+	
+		
+	
+
+	}
+
+}

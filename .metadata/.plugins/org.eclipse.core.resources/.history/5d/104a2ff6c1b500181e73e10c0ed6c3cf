@@ -1,0 +1,25 @@
+
+public class ExoConditionIf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	
+		double note = 15;
+		int coef = 3 ;
+		double ruseltat = note * coef ;
+		System.out.println("ruseltat = " + ruseltat);
+		 if (ruseltat >= 50)
+	     System.out.println("ruseltat=" +ruseltat);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

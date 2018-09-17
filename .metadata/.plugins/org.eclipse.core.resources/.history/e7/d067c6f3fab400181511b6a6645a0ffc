@@ -1,0 +1,24 @@
+
+public class premiereclass {
+
+
+	public static void main(String[] args) {
+		//Afficher une chaine de caractères
+		System.out.println("Bonjour");    
+		System.out.println("Bonsoir");    
+		System.out.println("erreur");
+		//afficher un boolean
+		System.out.println(true);
+		
+
+
+	
+		System.out.println(12);             
+	
+		
+		
+
+		
+		
+}
+}

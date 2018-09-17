@@ -1,0 +1,26 @@
+
+public class premiereclass {
+
+
+	public static void main(String[] args) {
+		//Afficher unr chaine de caractères
+		System.out.println("Bonjour");    
+		System.out.println("Bonsoir");    
+		System.out.println("erreur");
+		
+//Afficher un nombre entier
+	
+		System.out.println(12);             
+	
+		
+		
+	//String -> chaine de caractères
+    //int-> Entier
+   // float -> nombre décimal 
+   // char -> caractère 
+		// booleen -> true ou  false 
+		//afficher un boolee
+		
+		
+}
+	

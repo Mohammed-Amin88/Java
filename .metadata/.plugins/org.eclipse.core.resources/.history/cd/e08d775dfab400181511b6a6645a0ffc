@@ -1,0 +1,21 @@
+
+public class premiereclass {
+
+
+	public static void main(String[] args) {
+		//Afficher unr chaine de caractères
+		System.out.println("Bonjour");    
+		System.out.println("Bonsoir");    
+		System.out.println("erreur");
+		System.out.println(12.2)
+
+	
+		System.out.println(12);             
+	
+		
+		
+
+		
+		
+}
+}

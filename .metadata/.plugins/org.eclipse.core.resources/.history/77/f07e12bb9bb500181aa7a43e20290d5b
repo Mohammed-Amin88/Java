@@ -1,0 +1,22 @@
+
+public class ExoVariabeles {
+	public static void main(String[] args) {
+	
+	
+	//Type nomvariable = valeur;
+	double monDouble = 14.5;
+	int monInt = 3 ;
+	double monDouble = 14.5 * 3;
+	
+	System.out.println("Declaration + effectation :");
+	System.out.println("14.5 =" + 14.5);
+	System.out.println("3 =" + 3);
+	System.out.println("14.5 *3 =" +(14.5* 3));
+	
+	
+	
+
+
+	}
+
+}

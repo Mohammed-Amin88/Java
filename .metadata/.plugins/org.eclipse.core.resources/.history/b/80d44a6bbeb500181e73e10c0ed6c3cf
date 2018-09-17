@@ -1,0 +1,32 @@
+
+public class Condition1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 int somme = 15 ;
+		 if (somme>11)
+			 System.out.println("la some est trop cher");
+		 
+		 
+		 if(somme<=11)
+			 System.out.println("la somme est parffaite");
+		 if(somme != 13)
+			 System.out.println("la somme est != de 13");
+		 
+
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+	}
+
+}

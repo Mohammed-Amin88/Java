@@ -1,0 +1,38 @@
+public class ExoConditionIf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		float note = 15f;
+		int coef = 3 ;
+		float resultat = note * coef ;
+		if (resultat >= 50) 
+			System.out.println("resultat = " + resultat);
+
+	//   noteJava : 10.5
+	//		noteHtml : 13.5
+	//      noteJavascript : 9.5		note Css : 8.5
+	//	moyenne
+	//       SI moyenne >= 10
+	//	ALORS Afficher “Vous avez eu une bonne note” 
+	//  SI moyenne < 10
+	//	ALORS Afficher “Vous avez eu une mauvaise note” 
+
+	double notejava = 10.5;
+	double notehtml = 13.5; 
+	double notejavascript = 9.5;
+	double notecss = 8.5;
+	int moyenne = 10 ;
+	
+	
+	if (moyenne >= 10) {
+		System.out.println(" vous avez eu une bonne note");
+	}
+
+	if (moyenne < 10 ){
+		System.out.println("vous avez eu une maivaise note ");
+	}
+
+
+
+}}

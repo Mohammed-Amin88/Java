@@ -1,0 +1,76 @@
+
+public class ExoVariabeles {
+	public static void main(String[] args) {
+		
+    //Declaration et affectation
+	//Type nomvariable = valeur;
+		
+	double note =14.5 ;
+	int coef=3;
+	double ruseltat = note * coef;
+	
+	System.out.println("ruseltat = " + ruseltat);
+	
+	//Affectation
+	//nomVariabele = valeur ;
+	
+	
+	 note = 12.3 ;
+	 coef = 5;
+	 ruseltat = note * coef ;
+	
+	System.out.println("Affectation :");
+	System.out.println("ruseltat = " + ruseltat);
+	
+	
+    //Declaration et effectation
+	//Type nomvariable = valeur;
+	
+	double notejava = 10.5;
+	double notehtml = 13.2 ;
+	double notejavascript =11.3;
+	double notecss = 8.5;
+	double moyenne =( notejava + notehtml + notejavascript + notecss)/4 ;
+	
+	
+	//System.out.println("moyenne =" + moyenne);
+	
+    //Declaration et effectation
+	//Type nomvariable = valeur;
+	
+	int coefjava = 3;
+	int coefhtml = 2;
+	int coefjavascript = 3;
+	int coefcss = 1;
+	
+	System.out.println(" notejava *coefjava =" + notejava * coefjava );
+	System.out.println("notehtmal * coefhtml= " + notehtml * coefhtml);
+	System.out.println("notejavascript * coefjavascript =" + notejavascript * coefjavascript);
+	System.out.println("notecss * coefcss =" + notecss * coefcss);
+	
+	
+	
+	//Affectation
+	//nomVariabele = valeur ;
+	
+	System.out.println("Affectation :");
+	moyenne =(notejava * coefjava) + (notehtml * coefhtml )+ (notejavascript * coefjavascript) +(notecss * coefcss )/ (coefjava +coefhtml +coefjavascript + coefcss);
+	System.out.println("moyenne =" + moyenne);
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	}
+
+}

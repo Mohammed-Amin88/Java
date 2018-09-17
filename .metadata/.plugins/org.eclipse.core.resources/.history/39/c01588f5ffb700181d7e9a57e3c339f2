@@ -1,0 +1,22 @@
+
+
+
+
+public class Tableau1 {
+
+	public static void main(String[] args) {
+		int  num = 15 ;
+		int linum []= {1,2,5,7,9,11};
+		
+		
+		
+		
+		
+		
+	
+		
+	
+
+	}
+
+}

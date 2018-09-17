@@ -1,0 +1,19 @@
+
+public class premiereclass {
+	//Afficher une chaine de caractères
+
+	public static void main(String[] args) {
+		System.out.println("Bonjour");
+		System.out.println("Bonsoir");
+		System.out.println("erreur");
+		
+		//Afficher un nombre entier
+		System.out.println(12);
+		
+		
+		
+
+
+	}
+
+}

@@ -1,0 +1,74 @@
+
+public class SwitchCondition {
+
+	public static void main(String[] args) {
+	
+   int entier= 12;
+  
+   switch (entier) {
+   case 1:
+   System.out.println("jan = 1");
+   break;
+   case 2:
+	   System.out.println("fiv = 2");
+	   break;
+   case 3:
+	   System.out.println("mar= 3");
+	   
+	   break;
+   case 4:
+	   System.out.println("avr = 4");
+	   break;
+   case 5 :
+	   System.out.println("mai =5 ");
+	   break;
+   case 6 :
+	   System.out.println("juin = 6");
+	   break;
+   case 7: 
+	   System.out.println("juillet = 7");
+	   break;
+   case 8:
+	   System.out.println("aout = 8");
+	   break;
+   case 9 :
+	   System.out.println("sep = 9");
+	   break;
+   case 10 :
+	   System.out.println("oct =10");
+	   break;
+   case 11:
+	   System.out.println("nov =11");
+	   break;
+   case 12 :
+	   System.out.println("dec =12");
+	   break;
+	   
+	
+
+	   
+	   
+	   
+   
+   }
+   
+		   
+  
+	
+
+		
+		 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
