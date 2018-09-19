@@ -1,6 +1,6 @@
 
 
-
+////////                                              17/09/2018
 
 public class Tableau1 {
 
@@ -26,21 +26,14 @@ public class Tableau1 {
 		      System.out.println(cours[i] + "= 10."); 
 				
 			}
-} 
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
-	
+				
 
+	
 	}
+}
+
+		
+
+
 
 
