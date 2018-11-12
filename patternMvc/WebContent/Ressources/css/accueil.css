@@ -1,0 +1,27 @@
+
+
+#lien{
+    margin-left: 40%;
+
+}
+a:hover{
+    color: red;
+}
+img:hover{
+    width: 400px;
+}
+.paragraghe-red{
+    margin-left: 38%;
+
+}
+
+.paragraghe-red{
+    color: orangered;
+}
+#ul{
+    font-size: 25px;
+}
+.accueil:hover{
+    border: green 2px solid;
+}
+

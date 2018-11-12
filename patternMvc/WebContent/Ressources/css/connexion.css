@@ -1,0 +1,66 @@
+
+
+#g{
+    color: orangered;
+}
+h1{
+    color: blue;
+    font-size:55px;
+}
+#goffa{
+    color: red;
+}
+h2{
+    color: blue;
+    font-size: 45px;
+}
+#connecté{
+    color: green;
+}
+#login{
+    color: aquamarine;
+    background: orangered;
+    font-size: 30px;
+}
+#password{
+    color: aquamarine;
+    background: orangered;
+    font-size: 30px;
+
+}
+label{
+    color: cornflowerblue;
+    font-size: 30px;
+
+}
+#number{
+    color: aquamarine;
+    background: deepskyblue;
+    font-size: 30px;
+
+}
+#date{
+    color: aquamarine;
+    background: deepskyblue;
+    font-size: 25px;
+}
+#time{
+    color: aquamarine;
+    background: orangered;
+    font-size: 25px;
+}
+#color{
+    color: aquamarine;
+    background: orangered;
+    font-size: 25px;
+
+}
+#fieldset1{
+    background:yellowgreen;
+}
+#fieldset2{
+    background: orange;
+}
+#fieldset3{
+    background:red;
+}
